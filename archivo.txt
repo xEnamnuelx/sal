@@ -1,6 +1,3 @@
 salida 
 entrada 
-puerta
-nevera
-estufa
-mesa
+
